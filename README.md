@@ -50,6 +50,8 @@ I'm a passionate Flutter developer with experience building cross-platform mobil
 
 ## Contact
 
+Contact me via email at [roypa81130@gmail.com](mailto:roypa81130@gmail.com).
+
 
 
 
