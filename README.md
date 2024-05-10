@@ -2,7 +2,11 @@
 
 **`Flutter Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+As a Flutter developer, I specialize in crafting immersive mobile experiences with a strong foundation in Dart programming. I thrive on the platform's promise of cross-platform efficiency, creating visually stunning and functionally robust applications.
+
+My commitment to continuous learning drives me to stay updated with the latest Flutter advancements, ensuring that I deliver cutting-edge solutions. Collaborative by nature, I excel in team environments, leveraging my expertise to brainstorm creative solutions.
+
+From conceptualization to deployment, I prioritize user experience, meticulously refining every aspect of my applications for optimal performance. I'm dedicated to pushing the boundaries of mobile app development and delivering impactful solutions.
 
 ---
 ### 🧰 Languages and Tools
