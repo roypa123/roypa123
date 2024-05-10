@@ -15,16 +15,13 @@ From conceptualization to deployment, I prioritize user experience, meticulously
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
 
-
-
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
-
-
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+
 
 
 <br />
