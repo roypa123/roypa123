@@ -36,17 +36,21 @@ Welcome to my Flutter projects portfolio! Below you'll find a collection of proj
 
 Description: A flashlight app is a simple yet highly useful utility application that allows users to use their device as a source of light. These apps utilize the device's built-in LED flash (usually associated with the camera) or the screen to provide illumination. Flashlight apps are essential tools for various scenarios, from finding items in the dark to providing light during power outages.
 
+state mangement: BLOC
+
 |  <img src="https://github.com/roypa123/flashlight/blob/27b0b7a64f7644b33a416d1b1ec26edf16e96973/extra_file/git_images/image1.jpeg?raw=true" width="225.8" height="500"/>  |  <img src="https://github.com/roypa123/flashlight/blob/27b0b7a64f7644b33a416d1b1ec26edf16e96973/extra_file/git_images/image2.jpeg?raw=true" width="225.8" height="500"/>   |   <img src="https://github.com/roypa123/flashlight/blob/27b0b7a64f7644b33a416d1b1ec26edf16e96973/extra_file/git_images/image3.jpeg?raw=true" width="225.8" height="500"/>
 
 Repository: [flash-light](https://github.com/roypa123/flashlight)
 
-### 2. To-Do List App
+### 2. BMI CALCULATOR
 
-![To-Do List App Screenshot](todo_list_app_screenshot.png)
+Description: A BMI Calculator App is a user-friendly tool designed to help individuals assess their Body Mass Index (BMI) conveniently. It provides insights into whether a person is underweight, normal weight, overweight, or obese based on their height and weight
 
-Description: A simple to-do list app built with Flutter that helps users keep track of their tasks. It features task creation, deletion, and completion functionalities.
+state mangement: BLOC
 
-Repository: [todo-list-app](https://github.com/yourusername/todo-list-app)
+|  <img src="https://github.com/roypa123/bmicalculator/blob/cbe2de6ccfd1def487a11dc4d28db43f7adb188e/extra_file/git_images/image1.jpeg" width="225.8" height="500"/>   |   <img src="https://github.com/roypa123/bmicalculator/blob/cbe2de6ccfd1def487a11dc4d28db43f7adb188e/extra_file/git_images/image2.jpeg" width="225.8" height="500"/>   |   <img src="https://github.com/roypa123/bmicalculator/blob/cbe2de6ccfd1def487a11dc4d28db43f7adb188e/extra_file/git_images/image3.jpeg" width="225.8" height="500"/>
+
+Repository: [bmi-calculator](https://github.com/roypa123/bmicalculator)
 
 ## About Me
 
