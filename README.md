@@ -30,15 +30,15 @@ From conceptualization to deployment, I prioritize user experience, meticulously
 
 Welcome to my Flutter projects portfolio! Below you'll find a collection of projects I've worked on using Flutter.
 
-## Projects
+##  My Projects
 
-### 1. Weather App
+### 1. FLASHLIGHT
+
+Description: A flashlight app is a simple yet highly useful utility application that allows users to use their device as a source of light. These apps utilize the device's built-in LED flash (usually associated with the camera) or the screen to provide illumination. Flashlight apps are essential tools for various scenarios, from finding items in the dark to providing light during power outages.
 
 ![Weather App Screenshot](weather_app_screenshot.png)
 
-Description: This Flutter app allows users to check the current weather conditions and forecast for their location. It utilizes the OpenWeatherMap API to fetch weather data.
-
-Repository: [weather-app](https://github.com/yourusername/weather-app)
+Repository: [weather-app](https://github.com/roypa123/flashlight)
 
 ### 2. To-Do List App
 
