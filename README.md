@@ -57,6 +57,8 @@ state mangement: BLOC
 
 Repository: [flash-light](https://github.com/roypa123/flashlight)
 
+<br />
+
 ### BMI CALCULATOR
 
 Description: A BMI Calculator App is a user-friendly tool designed to help individuals assess their Body Mass Index (BMI) conveniently. It provides insights into whether a person is underweight, normal weight, overweight, or obese based on their height and weight
@@ -67,6 +69,8 @@ state mangement: BLOC
 
 Repository: [bmi-calculator](https://github.com/roypa123/bmicalculator)
 
+<br />
+
 ### CALCULATOR
 
 A Calculator App is a versatile and user-friendly application designed to perform mathematical calculations efficiently. Whether you're solving simple arithmetic problems or tackling complex equations, a calculator app provides a convenient and portable solution. 
@@ -76,6 +80,8 @@ state management
 BLOC
 
 |  <img src="https://github.com/roypa123/calculator/blob/2a04885241ecf7be49b721bd5b2364cb992711d2/extra_file/git_images/image1.jpeg" width="225.8" height="500"/>   |   <img src="https://github.com/roypa123/calculator/blob/2a04885241ecf7be49b721bd5b2364cb992711d2/extra_file/git_images/image2.jpeg" width="225.8" height="500"/>  
+
+<br />
 
 ## About Me
 
