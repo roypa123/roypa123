@@ -32,6 +32,19 @@ Welcome to my Flutter projects portfolio! Below you'll find a collection of proj
 
 ##  My Projects
 
+### Weather App
+
+A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+
+Important Packeges used
+
+ 1. Flutter Bloc
+ 2. Dio
+ 3. GetIt
+ 4. geolocator
+
+ <img src="https://github.com/roypa123/weather_app/blob/9bb4c65a6b769bf2740dc7f532dafee6e71ce8aa/extrafile/git_images/image1.jpeg" width="225.8" height="500"/> 
+
 ###  FLASHLIGHT
 
 Description: A flashlight app is a simple yet highly useful utility application that allows users to use their device as a source of light. These apps utilize the device's built-in LED flash (usually associated with the camera) or the screen to provide illumination. Flashlight apps are essential tools for various scenarios, from finding items in the dark to providing light during power outages.
