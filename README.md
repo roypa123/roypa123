@@ -32,7 +32,7 @@ Welcome to my Flutter projects portfolio! Below you'll find a collection of proj
 
 ##  My Projects
 
-### 1. FLASHLIGHT
+###  FLASHLIGHT
 
 Description: A flashlight app is a simple yet highly useful utility application that allows users to use their device as a source of light. These apps utilize the device's built-in LED flash (usually associated with the camera) or the screen to provide illumination. Flashlight apps are essential tools for various scenarios, from finding items in the dark to providing light during power outages.
 
@@ -42,7 +42,7 @@ state mangement: BLOC
 
 Repository: [flash-light](https://github.com/roypa123/flashlight)
 
-### 2. BMI CALCULATOR
+### BMI CALCULATOR
 
 Description: A BMI Calculator App is a user-friendly tool designed to help individuals assess their Body Mass Index (BMI) conveniently. It provides insights into whether a person is underweight, normal weight, overweight, or obese based on their height and weight
 
