@@ -34,23 +34,48 @@ Welcome to my Flutter projects portfolio! Below you'll find a collection of proj
 
 ##  Company Projects
 
-### Toffeeride App
+### Toffeeride 
 
-A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+An intelligent platform to promote self-learning in children . An app based solution accessible on your smartphones, tablets, laptops, and desktops
 
+Important Packeges used
 
-### Toffeeride App
-
-A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
-
-### Toffeeride App
-
-A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+ 1. Getx
+ 2. http
 
 
-### Toffeeride App
+### Just Borrow
 
-A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+A user-friendly and comprehensive rental platform that simplifies the process of finding and renting a wide range of items, properties, and services.
+
+Important Packeges used
+
+ 1. Getx
+ 2. http
+
+### Quotely
+
+A motivation app that delivers daily inspirational quotes, empowering users with positivity. It features categorized quotes, a sleek design, and sharing options to uplift and inspire anytime, anywhere.
+
+Important Packeges used
+
+ 1. Getx
+ 2. http
+ 
+
+
+
+### Tori
+
+Tori is a storytelling app for children, bringing stories to life with immersive background music and sound effects. It offers an engaging, audio-visual experience
+to captivate young minds and enhance learning
+
+Important Packeges used
+
+ 1. Provider
+ 2. Dio
+ 3. GetIt
+
 
 
 
