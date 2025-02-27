@@ -30,6 +30,32 @@ From conceptualization to deployment, I prioritize user experience, meticulously
 
 Welcome to my Flutter projects portfolio! Below you'll find a collection of projects I've worked on using Flutter.
 
+
+
+##  Company Projects
+
+### Toffeeride App
+
+A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+
+
+### Toffeeride App
+
+A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+
+### Toffeeride App
+
+A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+
+
+### Toffeeride App
+
+A Weather App is a mobile application designed to provide users with accurate, real-time weather information. It offers a convenient way to stay updated on current weather conditions, helping users plan their daily activities accordingly.
+
+
+
+
+
 ##  My Projects
 
 ### Weather App
