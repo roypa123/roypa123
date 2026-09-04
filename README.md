@@ -83,22 +83,26 @@ Important Packeges used
 
 ##  My Projects
 
+### Nexlytics
 
 Nexlytics is a self-hosted, privacy-conscious web analytics platform — a lighter, more transparent alternative to Google Analytics, built for teams who want first-party visibility into their website traffic without third-party data sharing.
 
 At its core, Nexlytics tracks visitor behavior through a lightweight JavaScript snippet embedded on a customer's website. It automatically captures pageviews, sessions, and referrer chains, and exposes a simple window.nexlytics(name, props) API for custom event tracking — clicks, form submissions, conversions, anything a site owner wants to measure. Events flow through a dedicated, publicly reachable collector service, designed to accept traffic from any origin without requiring authentication, since it's meant to be embedded on strangers' websites.
 
-1 Fronted:
-        1.1 React
-        1.2 Tailwind
-        1.3 Shadcn/ui
-        1.4 TanStack Query/Router,
-        1.5 Jotai,
-2 Backend
-        1.1 FastAPI
-        1.2 PostgreSQL
-3 Docker
-4 Dokploy
+
+1. React
+2. Tailwind
+3. Shadcn/ui
+4. TanStack Query/Router,
+5. Jotai,
+6. FastAPI
+7. PostgreSQL
+8. Docker
+9. Dokploy
+
+ <img src="https://github.com/roypa123/weather_app/blob/9bb4c65a6b769bf2740dc7f532dafee6e71ce8aa/extrafile/git_images/image1.jpeg" width="225.8" height="500"/> 
+
+ Repository: [Weather-App](https://github.com/roypa123/weather_app)
 
 
 ### Weather App
