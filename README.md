@@ -44,6 +44,7 @@ Important package used:
 2. Tailwind
 3. Shadcn/ui
 4. Redux tool kit
+5. Nx Monorepo
 
 ### STC
 
@@ -55,6 +56,7 @@ Important package used:
 2. Tailwind
 3. Shadcn/ui
 4. Redux tool kit
+5. Nx Monorepo
 
 ### Toffeeride 
 
