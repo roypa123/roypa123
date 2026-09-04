@@ -127,7 +127,8 @@ At its core, Nexlytics tracks visitor behavior through a lightweight JavaScript 
 9. Dokploy
 
  <img src="https://github.com/roypa123/weather_app/blob/9bb4c65a6b769bf2740dc7f532dafee6e71ce8aa/extrafile/git_images/image1.jpeg" width="225.8" height="500"/> 
-
+ <img src="https://github.com/roypa123/analytics/image/dashboard.JPG" width="225.8" height="500"/> 
+https://github.com/roypa123/analytics
  Repository: [Nexlytics](https://github.com/roypa123/analytics)
 
 
