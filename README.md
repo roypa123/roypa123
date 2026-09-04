@@ -134,6 +134,13 @@ https://github.com/roypa123/analytics
   src="https://raw.githubusercontent.com/roypa123/analytics/image/dashboard.JPG"
   alt="dashboard"
 />
+
+<img 
+  src="https://raw.githubusercontent.com/roypa123/analytics/main/image/dashboard.JPG"
+  width="225"
+  height="500"
+  alt="Weather app"
+/>
  Repository: [Nexlytics](https://github.com/roypa123/analytics)
 
 
