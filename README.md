@@ -130,8 +130,8 @@ At its core, Nexlytics tracks visitor behavior through a lightweight JavaScript 
 
 <img 
   src="https://raw.githubusercontent.com/roypa123/analytics/main/image/dashboard.JPG"
-  width="1280"
-  height="720"
+  width="1024"
+  height="576"
   alt="Dashboard"
 />
 
