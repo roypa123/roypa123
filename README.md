@@ -102,7 +102,7 @@ At its core, Nexlytics tracks visitor behavior through a lightweight JavaScript 
 
  <img src="https://github.com/roypa123/weather_app/blob/9bb4c65a6b769bf2740dc7f532dafee6e71ce8aa/extrafile/git_images/image1.jpeg" width="225.8" height="500"/> 
 
- Repository: [Weather-App](https://github.com/roypa123/weather_app)
+ Repository: [Nexlytics](https://github.com/roypa123/analytics)
 
 
 ### Weather App
