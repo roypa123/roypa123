@@ -130,10 +130,11 @@ At its core, Nexlytics tracks visitor behavior through a lightweight JavaScript 
 
 <img 
   src="https://raw.githubusercontent.com/roypa123/analytics/main/image/dashboard.JPG"
-  width="800"
+  width="1200"
   height="500"
   alt="Weather app"
 />
+
  Repository: [Nexlytics](https://github.com/roypa123/analytics)
 
 
