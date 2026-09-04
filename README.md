@@ -26,7 +26,7 @@ From conceptualization to deployment, I prioritize user experience, meticulously
 
 <br />
 
-# My Flutter Projects Portfolio
+# My Projects Portfolio
 
 Welcome to my Flutter projects portfolio! Below you'll find a collection of projects I've worked on using Flutter.
 
@@ -62,8 +62,9 @@ An intelligent platform to promote self-learning in children . An app based solu
 
 Important Packeges used
 
- 1. Getx
- 2. http
+ 1. Flutter
+ 2. Getx
+ 3. http
 
 
 ### Just Borrow
@@ -72,17 +73,19 @@ A user-friendly and comprehensive rental platform that simplifies the process of
 
 Important Packeges used
 
- 1. Getx
- 2. http
+ 1. Flutter
+ 2. Getx
+ 3. http
 
 ### Quotely
 
 A motivation app that delivers daily inspirational quotes, empowering users with positivity. It features categorized quotes, a sleek design, and sharing options to uplift and inspire anytime, anywhere.
 
 Important Packeges used
-
- 1. Getx
- 2. http
+ 
+ 1. Flutter
+ 2. Getx
+ 3. http
  
 
 
@@ -93,10 +96,11 @@ Tori is a storytelling app for children, bringing stories to life with immersive
 to captivate young minds and enhance learning
 
 Important Packeges used
-
- 1. Provider
- 2. Dio
- 3. GetIt
+ 
+ 1. Flutter
+ 2. Provider
+ 3. Dio
+ 4. GetIt
 
 
 
