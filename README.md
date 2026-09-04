@@ -34,6 +34,28 @@ Welcome to my Flutter projects portfolio! Below you'll find a collection of proj
 
 ##  Company Projects
 
+### Tele2
+
+Tele2 is a telecommunications company that provides mobile, broadband, and digital communication services. The Tele2 project/portal can be described as a platform designed to support and manage telecom services, customers, sales, and related business operations.
+
+Important package used:
+
+1. React
+2. Tailwind
+3. Shadcn/ui
+4. Redux tool kit
+
+### STC
+
+STC (Saudi Telecom Company) is a leading telecommunications and digital services provider offering mobile, internet, cloud, cybersecurity, and digital solutions. It helps connect individuals and businesses through advanced technology and communication services.
+
+Important package used:
+
+1. React
+2. Tailwind
+3. Shadcn/ui
+4. Redux tool kit
+
 ### Toffeeride 
 
 An intelligent platform to promote self-learning in children . An app based solution accessible on your smartphones, tablets, laptops, and desktops
