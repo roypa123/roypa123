@@ -180,35 +180,35 @@ The result is a realistic, production-shaped reference implementation of hospita
 
 
 <img 
-  src="https://raw.githubusercontent.com/roypa123/analytics/main/images/login.JPG"
+  src="https://raw.githubusercontent.com/roypa123/hospital/main/images/login.JPG"
   width="1000"
   height="576"
   alt="login"
 />
 
 <img 
-  src="https://raw.githubusercontent.com/roypa123/analytics/main/images/dashboard.JPG"
+  src="https://raw.githubusercontent.com/roypa123/hospital/main/images/dashboard.JPG"
   width="1000"
   height="576"
   alt="Dashboard"
 />
 
 <img 
-  src="https://raw.githubusercontent.com/roypa123/analytics/main/images/appointment_scheduler.JPG"
+  src="https://raw.githubusercontent.com/roypa123/hospital/main/images/appointment_scheduler.JPG"
   width="1000"
   height="576"
   alt="appointment-scheduler"
 />
 
 <img 
-  src="https://raw.githubusercontent.com/roypa123/analytics/main/images/pharmacy_stock.JPG"
+  src="https://raw.githubusercontent.com/roypa123/hospital/main/images/pharmacy_stock.JPG"
   width="1000"
   height="576"
   alt="Pharmacy_stock"
 />
 
 <img 
-  src="https://raw.githubusercontent.com/roypa123/analytics/main/images/profile_settings.JPG"
+  src="https://raw.githubusercontent.com/roypa123/hospital/main/images/profile_settings.JPG"
   width="1000"
   height="576"
   alt="Profile_settings"
