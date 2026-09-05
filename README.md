@@ -153,6 +153,41 @@ At its core, Nexlytics tracks visitor behavior through a lightweight JavaScript 
 
  Repository: [Nexlytics](https://github.com/roypa123/analytics)
 
+ ### Aura Health — Hospital Management System
+
+Aura Health is a full-stack hospital management platform built to run the day-to-day operations of a multi-department clinical facility, from patient registration through billing and insurance claims. The backend is a Node.js/Express REST API backed by PostgreSQL (via Knex), with a React 19 + TypeScript single-page frontend styled with Tailwind and shadcn/ui components.
+
+The system models nine distinct roles — Admin, Doctor, Receptionist, Nurse, Lab Technician, Pharmacist, Cashier, Insurance Officer, and Patient — enforced through a hybrid RBAC/ABAC layer that combines exact role checks with a numeric role-priority hierarchy, so senior roles inherit access without needing every permission explicitly listed. Authentication uses JWT access tokens paired with database-tracked refresh tokens, optional TOTP-based two-factor authentication with backup codes, and per-device session management.
+
+Core clinical workflows include appointment scheduling with optimistic-locking slot booking to prevent double-bookings, electronic medical records, digitally-signed prescriptions, pharmacy inventory managed on a first-expiry-first-out basis, and diagnostic lab test tracking. A unified "checkout" transaction ties a consultation together in one atomic step — recording the diagnosis, issuing a prescription, ordering labs, and generating an itemized invoice — with Razorpay integration for online payments and support for insurance claims against patient policies.
+
+Supporting infrastructure includes MinIO object storage for medical document uploads, Redis-backed background job queues (BullMQ) for email delivery and audit logging, real-time Socket.IO notifications pushed to patients and staff, and a full audit trail of sensitive actions across the system. The application is containerized with Docker and deployed via Dokploy, with Postgres, Redis, and MinIO running as independent managed services.
+
+The result is a realistic, production-shaped reference implementation of hospital operations software — useful both as a working clinic management tool and as a demonstration of layered backend architecture (routes → controllers → services → repositories), role-based access control design, and transactional business logic in a healthcare domain.
+
+1. React
+2. Tailwind
+3. Shadcn/ui
+4. TanStack Query/Router,
+5. zustand,
+6. Node.js
+7. PostgreSQL
+8. Redis
+9. MinIO
+10. Docker
+11. Dokploy
+
+
+
+<img 
+  src="https://raw.githubusercontent.com/roypa123/analytics/main/image/landing_page.jpg"
+  width="1000"
+  height="576"
+  alt="Dashboard"
+/>
+
+Repository: [Nexlytics](https://github.com/roypa123/hospital)
+
 
 ### Weather App
 
